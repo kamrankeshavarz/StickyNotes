@@ -1,0 +1,2 @@
+# StickyNotes
+Simple sticky notes
